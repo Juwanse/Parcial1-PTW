@@ -1,1 +1,4 @@
-# Parcial1-PTW
+# Parcia 1
+
+##Juan Ortega - 202113442
+##js.ortegar12@uniandes.edu.co

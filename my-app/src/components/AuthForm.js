@@ -94,7 +94,6 @@ const AuthForm = () => {
               />
             </div>
 
-            {/* Botones */}
             <div className="d-flex justify-content-center mt-4">
               <button
                 type="submit"
